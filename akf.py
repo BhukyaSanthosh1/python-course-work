@@ -1,0 +1,10 @@
+i=3
+print(i)
+i=3
+type(i)
+l=['car','bag']
+type(l)
+tuple=()
+type(tuple)
+cart_items=["shoes","shirts"]
+type(cart_items)
